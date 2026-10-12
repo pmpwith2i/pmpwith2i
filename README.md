@@ -1,7 +1,9 @@
-## Hello, I'm Federico 👋
-I'm a Software Engineer with strong foundations in the JavaScript/TypeScript ecosystem, Node.js, and React.
+## Hi, I'm Federico
 
-Thanks to my passion and continuous learning, I started working at 17. Over the past 10+ years, I’ve held roles such as Cloud Developer, Full Stack Engineer, Senior Backend Engineer, and Tech Lead.
-I’m the kind of software engineer who focuses on performance optimization, clean code, and robust testing strategies.
+Senior Full-Stack AI Engineer based in Teramo, Italy. 8+ years building full-stack products and distributed systems with TypeScript, React, Node.js and AWS, across SaaS, media streaming, fintech, healthcare and the public sector.
 
-I’ve been passionate about the crypto space and Web3 development since the early days. I’ve written smart contracts in Solidity (EVM) and Rust (Solana), and I’m now transitioning toward a career as a Smart Contract Engineer.
+Lately I build LLM systems that act on real data: agent runtimes with tool calling where state-changing actions wait for explicit user confirmation, multi-agent pipelines with cited evidence, and eval harnesses that compare models on behavior and cost.
+
+- **Stack:** TypeScript, React, Next.js, Node.js, Fastify, PostgreSQL, AWS (Lambda, ECS, CDK)
+- **AI:** agents, tool calling, MCP, evals, model routing, LLM observability
+- **Website:** [fpomponii.it](https://fpomponii.it)
